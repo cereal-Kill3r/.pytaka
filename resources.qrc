@@ -1,0 +1,46 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>assets/background/high_expense.png</file>
+    <file>assets/icons/refresh.png</file>
+    <file>assets/background/high_income.png</file>
+    <file>assets/background/meter.png</file>
+    <file>assets/icons/white_expand.png</file>
+    <file>assets/icons/blue_about.png</file>
+    <file>assets/icons/blue_add-record.png</file>
+    <file>assets/icons/blue_dashboard.png</file>
+    <file>assets/icons/blue_statistics.png</file>
+    <file>assets/icons/blue_transaction.png</file>
+    <file>assets/icons/blue_transaction-v2.png</file>
+    <file>assets/icons/blue-logout.png</file>
+    <file>assets/icons/white_about.png</file>
+    <file>assets/icons/white_add-record.png</file>
+    <file>assets/icons/white_dashboard.png</file>
+    <file>assets/icons/white_logout.png</file>
+    <file>assets/icons/white_statistics.png</file>
+    <file>assets/icons/white_transaction.png</file>
+  </qresource>
+  <qresource prefix="button">
+    <file>assets/button/budget_button.png</file>
+    <file>assets/button/expense_button.png</file>
+    <file>assets/button/goal_button.png</file>
+    <file>assets/button/income_button.png</file>
+  </qresource>
+  <qresource prefix="logo">
+    <file>assets/logos/logo.png</file>
+    <file>assets/logos/logo_white.png</file>
+    <file>assets/logos/logo_white_1.png</file>
+    <file>assets/logos/logo-w-name.png</file>
+    <file>assets/logos/logo_60x60.png</file>
+  </qresource>
+  <qresource prefix="background">
+    <file>assets/background/dashboard_header.png</file>
+    <file>assets/background/about.png</file>
+    <file>assets/background/statistics_header.png</file>
+    <file>assets/background/transaction_frame.png</file>
+    <file>assets/background/welcome.png</file>
+    <file>assets/background/form_framev2.png</file>
+    <file>assets/background/sign-up.png</file>
+    <file>assets/background/form_frame.png</file>
+    <file>assets/background/login_bg.png</file>
+  </qresource>
+</RCC>
